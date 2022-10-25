@@ -2,8 +2,8 @@
 **elvysribeiro/elvysribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 No momento, estou trabalhando em meus trabalhos pessoais.  
-- 🌱 No momento, estou aprendendo Python, ReactJS, Angular.
+- 🔭 Estou procurando emprego como Desenvolvedor Front End/ServiceNow.
+- 🌱 No momento, estou aprendendo ServiceNow Administrator e ReactJS.
 - 😄 Pronouns: Ele Dele.
 
 
