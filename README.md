@@ -2,7 +2,7 @@
 **elvysribeiro/elvysribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 Estou em busca de uma vaga como Desenvolvedor ServiceNow.
+- 🔭 Estou em busca de uma vaga de jr como Desenvolvedor ServiceNow, Front End ou Análise de Dados.
 - 🌱 No momento, estou aprendendo ServiceNow Administrator,
 - 😄 Pronouns: Ele Dele.
 
